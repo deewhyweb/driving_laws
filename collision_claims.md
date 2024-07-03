@@ -10,5 +10,5 @@ Insurance claims submitted by Parasol Insurance customers relating to car collis
 * Date and time of day
 * Police report 
 
-If Parasol insurance receives a car collision claim which does not contain the information listed above, any missing information should be requested from the customer.
+All of the above details are manadatory. If Parasol insurance receives a car collision claim which does not contain the information listed above, any missing information should be requested from the customer.
 
