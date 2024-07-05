@@ -1,14 +1,10 @@
-# Parasol Insurance Limited Collision Claims
+# Parasol Car Insurance Products
 
-Insurance claims submitted by Parasol Insurance customers relating to car collisions must include the following information:
+The parasol car insurance products provided by Parasol insurance are:
 
-* Insured driver details
-* Policy number
-* Details of any third party involved
-* Details of any medical practitioner visits including notes
-* Weather conditions
-* Date and time of day
-* Police report 
+* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.
 
-All of the above details are manadatory. If Parasol insurance receives a car collision claim which does not contain the information listed above, any missing information should be requested from the customer.
+* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.
+
+* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500.
 
