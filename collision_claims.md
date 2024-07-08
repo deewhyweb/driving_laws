@@ -1,10 +1,8 @@
-# Parasol Car Insurance Products
+Parasol Car Insurance Products
 
-The parasol car insurance products provided by Parasol insurance are:
+The parasol car insurance policy provides the following benefits:
 
-* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.
+Bodily injury cover upto $250,000. Property damage upto $100,000. Medical coverage upto $5,000 per person. Uninsured Motorist bodily injury upto $250,000 per person. Loss of use / rental cover is $50 per day. The comprehensive deductable is $500.
 
-* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.
 
-* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500.
 
