@@ -8,6 +8,7 @@
     {state: "Delaware", cost: 1012},
     {state: "Nevada", cost: 1000},
     {state: "Massachusetts", cost: 981},
-    {state: "Connecticut", cost: 964}
+    {state: "Connecticut", cost: 964},
+    {state: "North Dekota", cost: 512}
 ]
 
